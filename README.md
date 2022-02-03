@@ -14,7 +14,7 @@ Output:
 [7,8], [4,11], [3,12],[9,6]
 
 
-Algorithm:
+## Algorithm:
 1. Sort the array
 1. Find the diff (desired pair) from the highest number in array
 2. See if the lowest index is the diff, more than diff or less than diff
